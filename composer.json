@@ -1,5 +1,5 @@
 {
-    "name": "codica-studio/beautymail",
+    "name": "codicastudio/beautymail",
     "description": "A random Codica Studio package.",
 
     "homepage": "https://github.com/codicastudio/beautymail",
@@ -23,6 +23,7 @@
         }
     },
     "minimum-stability": "stable",
+    "prefer-stable": true,
     "extra": {
         "laravel": {
             "providers": [
